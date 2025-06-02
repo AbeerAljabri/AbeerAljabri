@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 <!-- Cover Banner -->
 <!--p align="center">
