@@ -1,8 +1,8 @@
 
 <!-- Cover Banner -->
-<!--p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/AbeerAljabri/AbeerAljabri/main/cover.png" alt="Cover" width="100%" />
-</p-->
+</p>
 
 <!-- Greeting -->
 <h1 align="center">Hi, I'm Abeer Aljabri 👋</h1>
