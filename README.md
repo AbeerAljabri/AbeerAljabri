@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Graduate in Information Technology (Data Science & AI Track)
+- 🎓 Graduate in Information Technology (Data Science & AI Track) From KSU.
 - 🧪 Worked on real-world projects in AI, software development, and data analysis
 - 🌱 Currently improving my backend and cloud skills
 - 💡 Passionate about using technology for impactful solutions
