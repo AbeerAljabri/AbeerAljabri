@@ -1,7 +1,7 @@
 
 <!-- Cover Banner -->
 <p align="center">
-  <img src="https://github.com/AbeerAljabri/blob/main/cover.png" alt="Cover" width="100%" />
+  <img src="https://raw.githubusercontent.com/AbeerAljabri/AbeerAljabri/main/cover.png" alt="Cover" width="100%" />
 </p>
 
 <!-- Greeting -->
