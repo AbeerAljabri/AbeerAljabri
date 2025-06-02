@@ -34,22 +34,13 @@
 ## 📂 Projects
 
 - **[NAQI App](https://github.com/AbeerAljabri/Naqi-application)** – Arabic IoT app for air quality monitoring using LoRaWAN
- `Flutter` `IoT` `Data Analysis` `Firebase`
+ `Flutter` `IoT` `Firebase` `Google Cloud` `Node.js`
 - **[Emotion Detection App](https://github.com/abeerAljabri/emotion-detection)** – A simple Flask web app that detects emotions in user input text using IBM Watson NLP.
   `Flask` `HTML` `CSS` `IBM Watson NLP`
 - **[Job Finder](https://github.com/AbeerAljabri/Job-Search-Website)** – Dynamic job board with PHP & MySQL
   `HTML` `CSS` `PHP` `MySQL`
 - **[Toxic-Tweets](https://github.com/abeerAljabri/toxic-tweets)** – Identifying toxicity in tweets using machine learning and persona-based contextual analysis.
   `Python` `Scikit-learn` `BERT` `Riveter` `Pandas` `NumPy` `Matplotlib`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbeerAljabri&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeerAljabri&layout=compact&theme=radical" />
-</p>
 
 ---
 
