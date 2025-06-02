@@ -35,21 +35,22 @@
 
 ## 📂 Projects
 
-- **[NAQI App](https://github.com/abeeraljabri/naqi)** – Arabic IoT app for air quality monitoring using LoRaWAN  
+- **[NAQI App]([https://github.com/abeeraljabri/naqi](https://github.com/AbeerAljabri/Naqi-application)** – Arabic IoT app for air quality monitoring using LoRaWAN  
   `Flutter` `IoT` `Data Analysis` `Firebase`
-- **Job Website** – Dynamic job board with PHP & MySQL  
+- **[Emotion Detection App](https://github.com/abeerAljabri/emotion-detection)** – A simple Flask web app that detects emotions in user input text using IBM Watson NLP.
+   `Flask` `HTML` `CSS` `IBM Watson NLP`
+- **[Job Finder](https://github.com/AbeerAljabri/Job-Search-Website)** – Dynamic job board with PHP & MySQL  
   `HTML` `CSS` `PHP` `MySQL`
-- **Sentiment Analysis** – Classified hotel reviews using machine learning  
-  `Python` `Scikit-learn` `Pandas` `Jupyter`
-
+- **[Toxic-Tweets](https://github.com/abeerAljabri/toxic-tweets)** – Identifying toxicity in tweets using machine learning and persona-based contextual analysis.
+   `Python` `Scikit-learn` `BERT` `Riveter` `Pandas` `NumPy` `Matplotlib`
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbeerAljabri&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbeerAljabri&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -58,4 +59,3 @@
 
 - 📧 [Email](mailto:abeeraljabri15@example.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abeer-aljabri/)
-- 🧾 [Resume](https://link-to-your-resume.com)
