@@ -35,7 +35,7 @@
 
 - **[NAQI App](https://github.com/AbeerAljabri/Naqi-application)** – Arabic IoT app for air quality monitoring using LoRaWAN
  `Flutter` `IoT` `Firebase` `Google Cloud` `Node.js`
-- **[Emotion Detection App](https://github.com/abeerAljabri/emotion-detection)** – A simple Flask web app that detects emotions in user input text using IBM Watson NLP.
+- **[Emotion Detection](https://github.com/abeerAljabri/emotion-detection)** – A simple Flask web app that detects emotions in user input text using IBM Watson NLP.
   `Flask` `HTML` `CSS` `IBM Watson NLP`
 - **[Job Finder](https://github.com/AbeerAljabri/Job-Search-Website)** – Dynamic job board with PHP & MySQL
   `HTML` `CSS` `PHP` `MySQL`
